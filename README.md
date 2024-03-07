@@ -21,9 +21,9 @@ Here are some of the projects I have worked on:
 
 ## Skills
 
-- Programming Languages: JavaScript, Python, Java
+- Programming Languages: JavaScript, Python, C
 - Web Development: HTML, CSS, React, Node.js
-- Database: MySQL, MongoDB
+- Database: MySQL, MongoDB (Not Yet)
 - Version Control: Git
 
 ## Contact Me
